@@ -1,3 +1,7 @@
 Pokemon de tipo volador
+<<<<<<< HEAD
 
 la 3º evolucion es Pidgeot
+=======
+La segunda evolucion es Pidgeotto
+>>>>>>> 24dd63072f0b35be7dd1c0d01356ad84a3854957
